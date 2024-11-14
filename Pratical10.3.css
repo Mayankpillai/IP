@@ -1,0 +1,23 @@
+body{
+    background-color: skyblue;
+}
+h1{
+    color: rgb(249, 149, 166);
+    text-align: justify;
+    text-shadow: 2px 2px rgb(112, 8, 239);
+    text-transform: uppercase;
+    text-align: center;
+}
+p{
+    color: blue;
+}
+ol{
+    color:rgb(7, 103, 30);
+    text-transform: capitalize;
+}
+ul{
+    text-transform:lowercase;
+    color:deeppink;
+    text-decoration:underline;
+    text-decoration-color:rgb(255, 255, 0);
+}
